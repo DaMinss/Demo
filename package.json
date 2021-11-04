@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LifeLiveOn/Nodejs.git"
+    "url": "git+https://github.com/DaMinss/Demo.git"
   },
   "keywords": [
     "nodejs",
@@ -22,9 +22,9 @@
   "author": "thanh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LifeLiveOn/Nodejs/issues"
+    "url": "https://github.com/DaMinss/Demo/issues"
   },
-  "homepage": "https://github.com/LifeLiveOn/Nodejs#readme",
+  "homepage": "https://github.com/DaMinss/Demo#readme",
   "lint-staged": {
     "src/**/*.{js,json,scss}": "prettier --single-quote --trailing-comma all --tab-width 4 --write"
   },
